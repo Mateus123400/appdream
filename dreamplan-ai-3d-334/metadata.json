@@ -1,0 +1,7 @@
+{
+  "name": " DreamPlan AI 3D 334",
+  "description": "Transform 2D floor plans into interactive 3D worlds. Walk through your future home and modify it with your voice using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
